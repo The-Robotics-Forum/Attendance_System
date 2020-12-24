@@ -32,7 +32,8 @@ The features that have been deployed in this project are:
 
 
 # License
-```MIT License
+```
+MIT License
 
 Copyright (c) 2020 The Robotics Forum, VIT Pune
 
