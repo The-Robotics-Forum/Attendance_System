@@ -31,8 +31,8 @@ The features that have been deployed in this project are:
 * 3-D face detection
 
 
-#License
-`MIT License
+# License
+```MIT License
 
 Copyright (c) 2020 The Robotics Forum, VIT Pune
 
@@ -53,4 +53,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-`
+```
